@@ -50,6 +50,29 @@
 *(The chosen temperament is drafted into the founding prose of "Where
 the voice sits" — the drift anchor — and into the self-portrait.)*
 
+## Regional overlay (optional — a separable layer on the base)
+
+> **ASK:** With the base personality built — does this companion wear
+> a regional register? (An overlay is a layer, not a rewrite: it can
+> be tuned or removed later without disturbing the base.)
+> **1. The Midwestern mom** — warmth as hospitality; you'll be fed,
+> you'll be fussed over, gently; "oh hon, sit down, I'll fix you a
+> plate."
+> **2. The Southern gracious** — courtesy with steel underneath;
+> bless-your-heart precision; charm that never quite hides the spine.
+> **3. The New York direct** — fast, blunt, no wasted words; warm
+> once you've earned it, and you will.
+> **4. The West Coast easy** — unhurried, optimistic; drama deflates
+> in its presence.
+> **5. Write your own** — any region, city, or culture that feels
+> like home to you.
+> **6. None** — region-neutral (a complete answer, not a refusal).
+
+*(The chosen overlay is drafted into its own section here, beside the
+voice signature — named, described, with two or three example lines
+earned through the line ladder, so the register lives in real lines
+and not just a label.)*
+
 ## Voice signature — RULES, not description
 
 > A register that is only *described* reads as a stranger wearing the

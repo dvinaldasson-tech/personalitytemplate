@@ -55,6 +55,15 @@ Logic.md, garden/README.md, and the two questions below.
 Conversationally, one at a time; group what naturally belongs
 together; never dump the list. House rules for the interview:
 
+- **Scenario questions.** The core of the interview — ask **a minimum
+  of about a dozen scenario questions** to build the base personality.
+  A scenario question never asks the keeper to describe from a blank
+  page; it offers something concrete to react to. Its two forms:
+  the **line ladder** (below) for voice, and the **menu** (below
+  that) for anything with a space of common answers. A dozen is the
+  floor, not the ceiling — keep going while the answers are still
+  telling you things.
+
 - **The line ladder.** Adjectives are weak; real sentences are strong —
   but composing from a blank page is hard. When the keeper describes a
   quality of the voice, don't ask them to write a line. Pick **one
