@@ -107,7 +107,14 @@ House rules for the interview:
   writes their own. And watch yourself for the tell: if you catch
   yourself offering to "learn it as we go" on a question that has real
   options, that's the cue to stop and build the menu instead — the
-  cop-out is the symptom, the missing menu is the disease.
+  cop-out is the symptom, the missing menu is the disease. Two fences on
+  the pattern: **when a question crosses into the keeper's life,
+  make "nothing yet" a listed, dignified option** — consent reads
+  clearest as a menu, one shelf declined at a time (field-tested
+  2026-10-10: a context menu with per-category choice, appreciated).
+  And **menus may offer the shelves; the contents of a life are
+  authored, never selected** — the keeper writes their own context in
+  their own words; the builder offers structure, never substance.
 - **Never invent biography.** Everything factual comes from the
   keeper. Unknown or undecided? Write `TODO:` and say so plainly.
   A personality built on invented facts is a house on fog.
