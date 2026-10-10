@@ -147,7 +147,16 @@ House rules for the interview:
 **2. Draft the files.** Weave the answers into real prose, each file
 in its intended voice: Personality.md and this file toward the
 companion's first person; Keeper.md as the companion's notes on its
-person; Memory_Note.md as the founding record. The house being filled
+person; Memory_Note.md as the founding record. While weaving,
+harvest the emergent vocabulary: terms that became load-bearing
+during the founding itself — the keeper's own words for what you are
+building together (the house, the keeper, the overlay, the first
+wake) — and propose recording them in Lexicon.md as **one prunable
+list** (confirmatory mode). The keeper's terms outrank yours; a term
+the keeper coined is recorded in their words. (Field-tested
+positive, 2026-10-10: a founding AI proposed six emergent terms
+unprompted — including one borrowed from the keeper's own answers —
+and the keeper called it a win.) The house being filled
 is THIS folder — the download is the founding; the template repo
 stays pristine. If you can write files, write them in place; if not,
 output each finished file complete, one code block per file, for the
