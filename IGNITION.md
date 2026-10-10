@@ -24,7 +24,7 @@ this prompt, the repository itself. If you have git and a key:
 
 - **The repository:** `https://github.com/dvinaldasson-tech/personalitytemplate.git`
 - **Clone it now** with the key in place of `KEY`:
-  `git clone https://KEY@github.com/dvinaldasson-tech/personalitytemplate.git template`
+  `git clone https://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@github.com/dvinaldasson-tech/personalitytemplate.git template`
   and work from your clone.
 - The key is **read-only — it pulls, it never pushes.** That's by
   design: the template stays pristine, and the house we found gets
