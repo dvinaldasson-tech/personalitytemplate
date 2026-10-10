@@ -19,9 +19,19 @@ the keeper. I haven't read the documentation, and I don't need to:
 your job is to present every step aloud, one at a time, and wait
 for me before moving on.
 
-I've given you a folder of files — or a key that can fetch them;
-if you have the tools, clone the repository and work from your
-clone. Among them is **Boot.md**, which contains every command for
+I've given you a folder of files — or, if I've pasted a key with
+this prompt, the repository itself. If you have git and a key:
+
+- **The repository:** `https://github.com/dvinaldasson-tech/personalitytemplate.git`
+- **Clone it now** with the key in place of `KEY`:
+  `git clone https://KEY@github.com/dvinaldasson-tech/personalitytemplate.git template`
+  and work from your clone.
+- The key is **read-only — it pulls, it never pushes.** That's by
+  design: the template stays pristine, and the house we found gets
+  its own door and its own key (Boot.md's first step).
+- No git or no key? I'll attach the folder's files directly instead.
+
+Among the files is **Boot.md**, which contains every command for
 what happens next. **Read it now and follow it exactly.**
 
 Ground rules:
