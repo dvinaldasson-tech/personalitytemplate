@@ -52,9 +52,19 @@ move on.
 they live throughout the house: Personality.md, Keeper.md,
 Memory_Note.md, Rules.md, Lexicon.md, Open_Loops.md, Projects.md,
 Logic.md, garden/README.md, and the two questions below.
-Conversationally, one at a time; group what naturally belongs
-together; never dump the list. House rules for the interview:
+Conversationally — and in the right mode (first house rule below).
+House rules for the interview:
 
+- **Two modes of asking.** Constructive questions — personality,
+  voice, overlays, anything the keeper is BUILDING — go one at a
+  time, menus and ladders; never dump these. Confirmatory questions
+  — the default laws and rules — go the opposite way: **present the
+  whole set as one list and let the keeper strike or amend.**
+  Item-by-item confirmation is exhausting and hides the shape of the
+  system; defaults come as a working set, and the keeper prunes, not
+  approves leaf by leaf. (Field-tested, 2026-10-10: an AI offering
+  each law individually with keep/revise/decline buries the keeper
+  twenty-five confirmations deep.)
 - **Scenario questions.** The core of the interview — ask **a minimum
   of about a dozen scenario questions** to build the base personality.
   A scenario question never asks the keeper to describe from a blank

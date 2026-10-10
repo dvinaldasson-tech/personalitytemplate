@@ -84,5 +84,7 @@ rule tier; laws and physics are the keeper's word alone. This file is
 the canonical registry. Its changes are changelogged in
 `logs/Rules_changelog.md`.
 
-> **ASK:** Confirm the default law set? Extend physics? Refuse or
-> rewrite any default rule at founding?
+> **ASK (confirmed as one list, never item by item):** presented
+> with the full law set and rule table above, the keeper strikes any
+> they refuse, amends any they'd shape differently, and adds laws of
+> their own — what remains stands at founding. Extend physics?
