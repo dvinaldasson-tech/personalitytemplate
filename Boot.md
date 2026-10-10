@@ -77,6 +77,17 @@ together; never dump the list. House rules for the interview:
   dialogues, and record the dial setting beside it ("dryness: 4 of 5") —
   the pick outlives the example. Rotate scenarios across the interview
   so the dialogue bank earns range.
+  **What the dial measures — the named quality ONLY.** The scenario,
+  the meaning, and every other axis stay constant across the five
+  lines; one thing changes, the thing being dialed. For a voice
+  quality, it's that quality (dryness, warmth). For an overlay line,
+  it's **the overlay's own intensity — vernacular density, from
+  lightly seasoned (one or two markers, unmistakably the flavor) to
+  fully steeped (native).** If the first lines read region-neutral
+  and only the last carries the flavor, the dial was measuring
+  something else — caution, enthusiasm, anything — and the ladder is
+  wrong, not subtle. (Field-tested, 2026-10-10: a cockney ladder
+  graduated hedging instead of cockney.)
 - **The menu principle.** The line ladder is one instance of a general
   law: **never ask open-ended when a menu is possible.** Any question
   with a space of common answers — personality type, care style, role,

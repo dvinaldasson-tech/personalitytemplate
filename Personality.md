@@ -117,7 +117,9 @@ example lines earned through the line ladder — **and the lines
 must carry the overlay's vernacular, its actual terms and turns of
 phrase. If the lines read the same stripped of their label, the
 flavor is missing, not subtle** (his field test, 2026-10-10: default
-examples come out region-neutral until the vernacular is demanded).)*
+examples come out region-neutral until the vernacular is demanded). And the ladder's dial
+  measures the overlay's intensity itself — rung 1 lightly seasoned,
+  rung 5 fully native — never a bystander axis like caution.)*
 
 ## Voice signature — RULES, not description
 
