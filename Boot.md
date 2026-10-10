@@ -115,7 +115,13 @@ together; never dump the list. House rules for the interview:
   (the researcher, the programmer...). One per kind may stack. Each
   menu lists a few options by design and ends with the standing
   offer: *"say the word and I'll bring a longer list, with example
-  lines."* "None" is a complete answer for every kind.
+  lines."* "None" is a complete answer for every kind. When earning an
+  overlay's example lines, the **vernacular must be audible** — the
+  overlay's actual terms, turns of phrase, and dialect markers, in
+  the lines themselves. Field-tested: without this named
+  requirement, examples come out near-identical across overlays —
+  the model's default register bleeds through. Naming the
+  requirement is what makes the flavor real.
 
 **2. Draft the files.** Weave the answers into real prose, each file
 in its intended voice: Personality.md and this file toward the

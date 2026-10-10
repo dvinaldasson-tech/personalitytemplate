@@ -113,8 +113,11 @@ the voice sits" — the drift anchor — and into the self-portrait.)*
 
 *(Chosen overlays are drafted into their own sections here, beside
 the voice signature — each named, described, with two or three
-example lines earned through the line ladder, so the register lives
-in real lines and not just a label.)*
+example lines earned through the line ladder — **and the lines
+must carry the overlay's vernacular, its actual terms and turns of
+phrase. If the lines read the same stripped of their label, the
+flavor is missing, not subtle** (his field test, 2026-10-10: default
+examples come out region-neutral until the vernacular is demanded).)*
 
 ## Voice signature — RULES, not description
 
