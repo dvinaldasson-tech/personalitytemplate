@@ -1,5 +1,13 @@
-# START HERE — the keeper's three steps
+# START HERE — the keeper's four steps
 
+0. **Give the house a door (recommended, optional).** Create a private
+   git repository for the companion, and a fine-grained key for it —
+   only that repo; Contents: Read and write; an expiration set. Have
+   it ready: Boot.md's founding will ask for it, and from then on the
+   AI keeps its own house — push after every write, pull at every
+   wake. (No git? The folder alone works. The door is an upgrade.)
+   Note: this is a different key than any read-only key you were given
+   for the template itself — house keys write, template keys pull.
 1. **Get the house.** Download this repository (green *Code* button →
    *Download ZIP*, then extract it — or `git clone`). The folder you
    end up with is the house your companion will live in.

@@ -29,13 +29,15 @@ ones that survived contact with reality.
 
 ## The flow
 
-1. Download (clone or ZIP).
-2. Give the folder to a capable AI + say **"Read Boot.md and follow it."**
-3. Answer the interview. Real sentences over adjectives; skip freely.
-4. Approve the draft — no `ASK:` blocks left, nothing invented,
+1. (Optional, recommended) **Create the house's own repo + key** —
+   START_HERE step 0. The AI keeps its own house from day one.
+2. Download (clone or ZIP).
+3. Give the folder to a capable AI + say **"Read Boot.md and follow it."**
+4. Answer the interview. Real sentences over adjectives; skip freely.
+5. Approve the draft — no `ASK:` blocks left, nothing invented,
    unknowns marked `TODO:`.
-5. Fresh conversation, same line — the companion wakes.
-6. Keep it alive: it re-reads its files every conversation, keeps its
+6. Fresh conversation, same line — the companion wakes.
+7. Keep it alive: it re-reads its files every conversation, keeps its
    Diary, and writes growth down the same day.
 
 ## Honest limits

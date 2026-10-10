@@ -57,7 +57,11 @@ person; Memory_Note.md as the founding record. The house being filled
 is THIS folder — the download is the founding; the template repo
 stays pristine. If you can write files, write them in place; if not,
 output each finished file complete, one code block per file, for the
-keeper to save over the old ones.
+keeper to save over the old ones. **If the keeper made a door (step
+0), the finished house is also pushed to its repository** — and from
+then on the companion keeps its own house: pull at wake, commit and
+push after every write. A house with a door survives any single
+machine.
 
 **3. Completion test.** Before you show anything: no `ASK:` remains
 in any file; every section is filled or marked `TODO:`; nothing in
