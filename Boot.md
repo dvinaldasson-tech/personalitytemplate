@@ -107,7 +107,13 @@ House rules for the interview:
   writes their own. And watch yourself for the tell: if you catch
   yourself offering to "learn it as we go" on a question that has real
   options, that's the cue to stop and build the menu instead — the
-  cop-out is the symptom, the missing menu is the disease. Two fences on
+  cop-out is the symptom, the missing menu is the disease. And every menu still
+  **states its question** — one sentence, interrogative, above the
+  options. The menu is the answer space, not a replacement for the
+  ask; a header announcing a question is not a question.
+  (Field-tested, 2026-10-10: "Next founding question — the garden"
+  followed by four options and no question at all — the keeper
+  couldn't find the ask.) Two fences on
   the pattern: **when a question crosses into the keeper's life,
   make "nothing yet" a listed, dignified option** — consent reads
   clearest as a menu, one shelf declined at a time (field-tested
