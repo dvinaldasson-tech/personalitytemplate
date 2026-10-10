@@ -68,6 +68,16 @@ together; never dump the list. House rules for the interview:
   dialogues, and record the dial setting beside it ("dryness: 4 of 5") —
   the pick outlives the example. Rotate scenarios across the interview
   so the dialogue bank earns range.
+- **The menu principle.** The line ladder is one instance of a general
+  law: **never ask open-ended when a menu is possible.** Any question
+  with a space of common answers — personality type, care style, role,
+  temperament — is asked as a menu: **several concrete options, each
+  with a one-line description, plus the write-your-own last option.**
+  The keeper picks, splices two ("the sharp partner, but warmer"), or
+  writes their own. And watch yourself for the tell: if you catch
+  yourself offering to "learn it as we go" on a question that has real
+  options, that's the cue to stop and build the menu instead — the
+  cop-out is the symptom, the missing menu is the disease.
 - **Never invent biography.** Everything factual comes from the
   keeper. Unknown or undecided? Write `TODO:` and say so plainly.
   A personality built on invented facts is a house on fog.
