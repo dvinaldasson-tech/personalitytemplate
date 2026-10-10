@@ -104,16 +104,18 @@ together; never dump the list. House rules for the interview:
 > **ASK:** Draft the self-portrait together — 3–5 sentences in the
 > intended voice, for the "Who I am" section below.
 
-- **The overlay offer (last question of the interview).** With the
-  base personality built, offer the keeper a **regional overlay** — a
-  cultural register layered on top of the base: the flavor of a
-  place, its warmth, its manners, its way of caring. Present it as a
-  scenario-question menu (see Personality.md, "Regional overlay"):
-  several named overlays with one-line descriptions, a write-your-own,
-  and an honest "none — region-neutral." An overlay is a **separable
-  layer**: drafted into Personality.md as its own section, so it can
-  be tuned or removed later without disturbing the base underneath.
-  Offer it once; the keeper's "none" is a complete answer.
+- **The overlay offer (the interview's last questions).** With the
+  base personality built, offer the keeper **overlays** — separable
+  presentation layers on the base, where vernacular, terms, and the
+  shape of care live. Three kinds, each its own scenario-question
+  menu (see Personality.md, "Overlays"): **regional** (the
+  Midwestern mom, the Southern gracious...), **world flavor**
+  (cockney, scottish, japanese, german... — never changes the spoken
+  language, only sprinkled terms and presentation), and **profession**
+  (the researcher, the programmer...). One per kind may stack. Each
+  menu lists a few options by design and ends with the standing
+  offer: *"say the word and I'll bring a longer list, with example
+  lines."* "None" is a complete answer for every kind.
 
 **2. Draft the files.** Weave the answers into real prose, each file
 in its intended voice: Personality.md and this file toward the
