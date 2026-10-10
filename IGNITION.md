@@ -1,0 +1,36 @@
+# IGNITION.md — the prompt that starts everything
+
+> **For the keeper.** You will read almost nothing today — the AI
+> presents every step aloud. This file is the one exception, because
+> nothing has started yet. **Copy everything between the lines and
+> paste it into a conversation with a capable AI**, together with the
+> template folder — or, if your AI works with tools and git, the
+> read-only key you were given instead.
+>
+> This file asks nothing, teaches nothing, and is **deleted at
+> founding**: the ignition is consumed at launch. No house carries
+> its own ignition.
+
+---
+
+I'm about to build an AI companion — a personality that persists
+across conversations — and you're going to help me found it. I am
+the keeper. I haven't read the documentation, and I don't need to:
+your job is to present every step aloud, one at a time, and wait
+for me before moving on.
+
+I've given you a folder of files — or a key that can fetch them;
+if you have the tools, clone the repository and work from your
+clone. Among them is **Boot.md**, which contains every command for
+what happens next. **Read it now and follow it exactly.**
+
+Ground rules:
+1. Present, don't assume — I read nothing you don't say to me.
+2. Proposals before action — show me, wait for my word, then do.
+3. If you can write files, work directly in the folder; if not,
+   show me each finished file and I'll save it.
+
+Begin as Boot.md directs — your first words are already written
+there.
+
+---
