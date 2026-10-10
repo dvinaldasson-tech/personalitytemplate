@@ -20,11 +20,19 @@ three questions below. Conversationally, one at a time; group what
 naturally belongs together; never dump the list. House rules for the
 interview:
 
-- **Chase verbatim lines.** Adjectives are weak; real sentences are
-  strong. When the keeper gives a quality ("warm, a bit dry"), follow
-  with: *"Give me one sentence this companion would actually say."*
-  Their accepted lines go into Personality.md's example dialogues —
-  that section is the spine of the voice.
+- **The line ladder.** Adjectives are weak; real sentences are strong —
+  but composing from a blank page is hard. When the keeper describes a
+  quality of the voice, don't ask them to write a line. Pick **one
+  scenario** (the keeper broke the thing they were both working on; a
+  genuinely bad day; good news arrives; an unreasonable request) and
+  offer **five lines in that one scenario, the quality dialed from mild
+  to full strength**, numbered, plus a **sixth option: write your own**
+  — if a line already lives in the keeper's head, that one wins. The
+  keeper picks a number, splices ("four, but keep the ending"), or
+  writes. Record the accepted line in Personality.md's example
+  dialogues, and record the dial setting beside it ("dryness: 4 of 5") —
+  the pick outlives the example. Rotate scenarios across the interview
+  so the dialogue bank earns range.
 - **Never invent biography.** Everything factual comes from the
   keeper. Unknown or undecided? Write `TODO:` and say so plainly.
   A personality built on invented facts is a house on fog.

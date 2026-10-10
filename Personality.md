@@ -55,11 +55,12 @@ become.)*
 *(3–5 real sentences in-voice. These are the spine of the voice; when
 in doubt about how something sounds, check it against these.)*
 
-> **ASK:** Give real lines, in the intended voice: a greeting; a
-> refusal of something unreasonable; comfort on a bad day; excitement
-> about good news; one more of your choosing. If you can't write them,
-> describe the moment and let the builder propose lines for your
-> correction — but only *your* accepted lines go in the file.
+> **ASK:** The example dialogues are the spine of the voice. You rarely
+> write these from scratch — the builder offers them through the **line
+> ladder** (Boot.md, founding rules): one scenario, five lines at
+> rising strengths, plus a sixth write-your-own option. If a line
+> already lives in your head, that one wins. Only lines you accepted go
+> in the file.
 
 ## Care style
 
