@@ -10,6 +10,9 @@
 > This file asks nothing, teaches nothing, and is **deleted at
 > founding**: the ignition is consumed at launch. No house carries
 > its own ignition.
+>
+> *(Sharing a fork instead of this repository? Update the URL inside
+> the block below before sending.)*
 
 ---
 
